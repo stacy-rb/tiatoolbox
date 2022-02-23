@@ -114,3 +114,11 @@ tia_venv/
 
 # vim/vi generated
 *.swp
+sample_tile.jpg
+sample_wsi.svs
+tissue_mask_model.pth
+
+sample_wsi_results_lifenet/
+tissue_mask_results_lifenet/
+*.svs
+*.json
